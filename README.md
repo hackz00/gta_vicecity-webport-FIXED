@@ -1,5 +1,6 @@
 <p align="center"><img src="vc_favicon.png" width="88" alt="Vice City"></p>
-<p align="center"><strong>GTA: Vice City, FIXED WEBPORT</strong></p>
+<p align="center" style="font-size: 24px;"><strong>GTA: Vice City, FIXED WEBPORT</strong></p>
+
 
 A single-file browser port with a small launcher and local saves.
 
